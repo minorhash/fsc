@@ -17,3 +17,7 @@ vi son/key.json
 }
   
 ```
+
+```
+node cmd/all.Js
+```
